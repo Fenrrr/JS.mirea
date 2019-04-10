@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e624c66d-24c1-4e3e-8bf8-73662614fd84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3_3/3_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_3/3_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_4/3_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_4/3_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,6 +20,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_3/3_3.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_3/3_3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_4/3_4.html">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
@@ -26,10 +45,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3_3/3_3.js">
+        <entry file="file://$PROJECT_DIR$/3_4/3_4.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="45">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -58,6 +77,8 @@
         <option value="$PROJECT_DIR$/3_2/3_2.js" />
         <option value="$PROJECT_DIR$/3_3/3_3.html" />
         <option value="$PROJECT_DIR$/3_3/3_3.js" />
+        <option value="$PROJECT_DIR$/3_4/3_4.html" />
+        <option value="$PROJECT_DIR$/3_4/3_4.js" />
       </list>
     </option>
   </component>
@@ -83,7 +104,7 @@
             <path>
               <item name="3" type="b2602c69:ProjectViewProjectNode" />
               <item name="3" type="462c0819:PsiDirectoryNode" />
-              <item name="3_3" type="462c0819:PsiDirectoryNode" />
+              <item name="3_4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,12 +152,12 @@
       <workItem from="1554716195290" duration="4069000" />
       <workItem from="1554825475700" duration="135000" />
       <workItem from="1554905383265" duration="1656000" />
-      <workItem from="1554909942101" duration="692000" />
+      <workItem from="1554909942101" duration="1374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11229000" />
+    <option name="totallyTimeSpent" value="11911000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -225,8 +246,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3_3/3_3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="105">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -234,6 +255,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_4/3_4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_4/3_4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
